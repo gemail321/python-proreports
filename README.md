@@ -1,4 +1,4 @@
-# Example of ProReports report generation in python
+# Example of rport generation in python using ProReports
 This example show You how can to generate reports from system ProReports in python programs. 
 
 
