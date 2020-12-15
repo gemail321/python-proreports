@@ -5,7 +5,7 @@ This example shows how you can generate  reports in the Python language using th
 * download and install ProReports as local instance 
 * run local instance of ProReports 
 * install in python environment requests library 
-* run example of code in python 
+* run example of code in python environment
 
 # Dependencies
 * requests (v. 2.24.0)
