@@ -28,6 +28,9 @@ This example shows how you can generate  reports in the python language using Pr
 * tool for building REST API (microservices).
 * integration with AD (Active Directory, Kerberos)
 * support for CIFS/SMBv2 protocol
+* integration with R language
+* integration with Python language
+* reports "man in the middle"
 
 # What must be done
 * download and install ProReports as local instance 
