@@ -1,5 +1,5 @@
 # Example of report generation in python using ProReports
-This example shows how you can generate  reports in the python language using the ProReports (http://www.proreports.pl) reporting system.
+This example shows how you can generate  reports in the python language using ProReports (http://www.proreports.pl) reporting system.
 
 # What must be done
 * download and install ProReports as local instance 
