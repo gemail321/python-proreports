@@ -1,7 +1,11 @@
 # Example of rport generation in python using ProReports
-This example show You how can to generate reports from system ProReports in python programs. 
+This example shows how you can generate  reports in the Python language using the ProReports reporting system.
 
-
+# What must be done
+* download and install ProReports as local instance 
+* run ProReports 
+* install in python environment requests library 
+* run example of code in python 
 
 # Dependencies
 * requests (v. 2.24.0)
