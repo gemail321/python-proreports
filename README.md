@@ -4,7 +4,7 @@ This example show You how can to generate reports from system ProReports in pyth
 
 
 # Dependencies
-* phpserialize (v. 1.3)
+* requests (v. 2.24.0)
 
 # Related links
 
