@@ -3,7 +3,7 @@ This example shows how you can generate  reports in the Python language using th
 
 # What must be done
 * download and install ProReports as local instance 
-* run ProReports 
+* run local instance of ProReports 
 * install in python environment requests library 
 * run example of code in python 
 
