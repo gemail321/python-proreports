@@ -12,7 +12,7 @@ def clean_html(raw_html):
 def main():
     lang = "en_EN"
     id_rep = 91
-    usr = "???" # we will set up variables 'ip_rep' and 'usr' later from ProReports
+    usr = "NjEzYTMxM2E3YjY5M2EzMDNiNzMzYTM1M2EyMjYxNjQ2ZDY5NmUyMjNiN2Q=" # we will set up variables 'ip_rep' and 'usr' from ProReports
     params = "&nprm[]=prm_name1&vprm[]=prm_value1&nprm[]=prm_name2&vprm[]=prm_value2"
     content = rq.get("http://127.0.0.1:8080/rep/rep_internal.php?id_rep="+str(id_rep)+"&outf=T&login="+usr+"&lg="+lang+"&hdr=T&delf=T"+params)
     # outf=T - we receive from ProReports report file (type of file in Content-Type header)
