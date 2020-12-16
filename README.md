@@ -1,5 +1,5 @@
 # Example of report generation in python using ProReports
-This example shows how you can generate  reports in the python language using ProReports (http://www.proreports.pl). ProReports can be used not only for reporting but also to create microservices - especially the docker version of this system. Microservices can later be called from Python programs in a similar way as report.
+This example shows how you can generate  reports in the python language using ProReports (http://www.proreports.pl).  ProReports can be used not only for reporting but also to create microservices - especially the docker version of this system. Microservices can later be called from Python programs in a similar way as report.
 
 # Futures of ProReports
 * multiple SQL queries in one report,
